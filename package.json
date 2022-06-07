@@ -1,7 +1,7 @@
 {
   "name": "pinterest",
   "version": "0.1.0",
-  "homepage": "https://rohankumar50.github.io/Justshare",
+  "homepage": "https://rohankumar50.github.io/justshare",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
